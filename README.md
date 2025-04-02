@@ -38,7 +38,7 @@ Execute the program using runserver command.
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background-color: rgb(231, 209, 175);(247, 246, 246);
+            background-color: rgb(247, 246, 244);(247, 246, 246);
         }
         table {
             border-collapse: collapse;
@@ -52,7 +52,7 @@ Execute the program using runserver command.
             text-align: center;
         }
         th {
-            background-color: rgb(115, 151, 198);
+            background-color: rgb(229, 125, 215);
         }
         td {
             background-color: whitesmoke;
@@ -161,7 +161,7 @@ Execute the program using runserver command.
 
 # OUTPUT
 
-![alt text](<Screenshot 2025-04-02 220314.png>)
+![alt text](<Screenshot 2025-04-02 222348.png>)
 
 # RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
